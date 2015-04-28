@@ -3,4 +3,4 @@ drollapi
 
 droll is a REST API to log ideas
 
-Adding a change to test github jenkins a adaa
+Adding a change to test github jenkins a adaaa
